@@ -1,21 +1,42 @@
 /* Your Website Styles */
 body { 
 	background: url("../img/pattern.png") #D54F2A;
-	 box-shadow: 0em, 0em, 1.875em, 0em;
+}
+header{
+	padding: 
 }
 
+h1{
+	color:black;
+	font-family: 'Miltonian', cursive;
+}
+h2{
+	margin-left: 10px;
+	font-family: 'Gravitas One', cursive;
+	color: black;
+}
 h3{
-
+	font-family: 'Miltonian', cursive;
+	color:black;
 	margin-top: 60px;
+	margin-left: 10px;
+}
+h4{
+	color: #FCF2E6;
+	margin-left: 10px;
+}
+p{
+	padding:10px;
+	color:#F4BDB8
 }
 div{
-	color:pink;
+	color:#F4BDB8;
 }
 ul{
-	color: white;
+	color:#F4BDB8;
 }
 li{
-	color:pink;
+	color:#F4BDB8;
 }
 
 img{
@@ -28,21 +49,27 @@ border: 10px double grey;
 margin-top: 60px;
 		border: 10px double grey;
 		margin:right ;
+		float: left;
 	}
 
-
-
-
- a {	color: white;
+a {	color: white;
   	text-decoration: none;
 	font-family: 'Ribeye Marrow', cursive;
-	margin: 50px 100px 50px 100px;
+	margin: 50px 100px 50px 15px;
 	padding-top: 1000px;}
 
 #name{
+	margin-right: 30px;
+	margin-left: 25px;
 	margin-top: 60px;
 }
 
+.container{
+	margin-top:60px;
+	background: rgb(156, 158, 157);
+box-shadow: #FCF2E6 0px 0px 1px 10px;
+border-radius: 15px;
+}
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
