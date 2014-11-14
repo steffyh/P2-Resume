@@ -1,0 +1,46 @@
+/* Your Website Styles */
+body { 
+	background: url("../img/pattern.png") #D54F2A;
+	 box-shadow: 0em, 0em, 1.875em, 0em;
+}
+
+h3{
+
+	margin-top: 60px;
+}
+div{
+	color:pink;
+}
+ul{
+	color: white;
+}
+li{
+	color:pink;
+}
+
+img{
+padding: 15px;
+	max-height: 350px;
+border: 10px double grey;
+	margin-right:25 ;
+	height: 350px;
+		width: 300px;
+margin-top: 60px;
+		border: 10px double grey;
+		margin:right ;
+	}
+
+ a {	color: white;
+  	text-decoration: none;
+	font-family: 'Ribeye Marrow', cursive;
+	margin: 50px 100px 50px 100px;
+	padding-top: 1000px;}
+
+#name{
+	margin-top: 60px;
+}
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
