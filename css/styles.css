@@ -48,7 +48,6 @@ border: 10px double grey;
 		width: 300px;
 margin-top: 60px;
 		border: 10px double grey;
-		margin:right ;
 		float: left;
 	}
 
@@ -65,6 +64,7 @@ a {	color: white;
 }
 
 .container{
+	margin-bottom: 40px;
 	margin-top:60px;
 	background: rgb(156, 158, 157);
 box-shadow: #FCF2E6 0px 0px 1px 10px;
