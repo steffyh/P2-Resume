@@ -2,9 +2,7 @@
 body { 
 	background: url("../img/pattern.png") #D54F2A;
 }
-header{
-	padding: 
-}
+
 
 h1{
 	color:black;
@@ -42,19 +40,20 @@ li{
 img{
 padding: 15px;
 	max-height: 350px;
-border: 10px double grey;
+border: 10px double black;
 	margin-right:25 ;
-	height: 350px;
-		width: 300px;
+	height: 100%;
+		width: 450px;
 margin-top: 60px;
-		border: 10px double grey;
+		border: 10px double black;
 		float: left;
 	}
 
-a {	color: white;
+a {	color: pink;
+
   	text-decoration: none;
 	font-family: 'Ribeye Marrow', cursive;
-	margin: 50px 100px 50px 15px;
+	margin: 50px 100px;
 	padding-top: 1000px;}
 
 #name{
